@@ -1,4 +1,4 @@
-# Verificatore di Sitemap XML e Indici URL | TAVARDT Italia
+# Verificatore di Sitemap XML e Indici URL
 
 [![Verificatore Sitemap](https://img.shields.io/badge/TAVARDT-Sitemap%20XML-5b3cf5.svg)](https://tools.tavardt.com/it/verificatore-sitemap-xml/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
@@ -49,3 +49,7 @@ Per testare e monitorare i file sitemap XML:
 ## Consulenza in Architettura di Scansione Web
 
 Per progetti avanzati di ottimizzazione sitemap conformi a Standard W3C e Protocollo Sitemaps.org, contattare **TAVARDT Italia**.
+
+***
+
+© 2026 TAVARDT. Tutti i diritti riservati.
