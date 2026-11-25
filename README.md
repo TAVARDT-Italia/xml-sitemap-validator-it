@@ -6,8 +6,6 @@
 
 Audit tecnico per file sitemap XML e indici, controllo di conformita al protocollo sitemaps.org, formattazione date e coerenza di scansione.
 
-Sviluppato e gestito dalla divisione di scansione web e infrastrutture di **TAVARDT**.
-
 ***
 
 ## Funzionalita della Validazione di Sitemap XML
@@ -38,15 +36,6 @@ python sitemap_validator.py https://esempio.it/sitemap.xml -json
 
 ***
 
-## Piattaforma di Diagnosi Online
-
-Per testare e monitorare i file sitemap XML:
-
-* **Verificatore di Sitemap XML Ufficiale**
-* **[Portale Aziendale TAVARDT](https://ag.tavardt.com/it/)**
-
-***
-
 ## Consulenza in Architettura di Scansione Web
 
 Per progetti avanzati di ottimizzazione sitemap conformi a Standard W3C e Protocollo Sitemaps.org, contattare **TAVARDT**.
@@ -62,7 +51,7 @@ Per progetti avanzati di ottimizzazione sitemap conformi a Standard W3C e Protoc
 ***
 
 ### Licenza
-Rilasciato sotto licenza MIT. Per maggiori informazioni, consultare il file [LICENSE](LICENSE).
+Rilasciato sotto licenza MIT.
 
 ***
 
