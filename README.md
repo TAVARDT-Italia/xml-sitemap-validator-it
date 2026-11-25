@@ -2,6 +2,7 @@
 
 [![Verificatore Sitemap](https://img.shields.io/badge/TAVARDT-Sitemap%20XML-5b3cf5.svg)](https://tools.tavardt.com/it/verificatore-sitemap-xml/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 Audit tecnico per file sitemap XML e indici, controllo di conformita al protocollo sitemaps.org, formattazione date e coerenza di scansione.
 
@@ -57,6 +58,11 @@ Per progetti avanzati di ottimizzazione sitemap conformi a Standard W3C e Protoc
 * **Portale Aziendale:** https://ag.tavardt.com/it/
 * **Suite di Diagnostica:** https://tools.tavardt.com/it/
 * **Contatto Tecnico:** https://ag.tavardt.com/it/contatto/
+
+***
+
+### Licenza
+Rilasciato sotto licenza MIT. Per maggiori informazioni, consultare il file [LICENSE](LICENSE).
 
 ***
 
